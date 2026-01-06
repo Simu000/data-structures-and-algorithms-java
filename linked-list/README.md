@@ -1,6 +1,6 @@
 # Linked Lists
 
-This directory contains problems based on singly and doubly linked lists, with an emphasis on pointer manipulation and edge case handling.
+This directory contains problems based on singly, doubly and circular linked lists, with an emphasis on pointer manipulation and edge case handling.
 
 ## Topics Covered
 - Insertion and deletion operations
